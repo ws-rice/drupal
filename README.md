@@ -1,4 +1,4 @@
-# drupal-js
+# drupal
 Drupal theme assets
 
 CDN links:
