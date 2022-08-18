@@ -26,7 +26,7 @@
           }
           data.push($row);
           response.data = response.data.slice(2);
-          // response.included = response.included.slice(2); //822
+          // response.included = response.included.slice(2);
 
           for (let i = 0; i < response.data.length; i++) {
             if (i % 3 == 0) {
