@@ -15,7 +15,7 @@
   https://cdn.jsdelivr.net/gh/ws-rice/drupal@latest/assets/js/profile-news.min.js
   https://cdn.jsdelivr.net/gh/ws-rice/drupal@latest/assets/js/profiles.min.js
   https://cdn.jsdelivr.net/gh/ws-rice/drupal@latest/assets/js/related-articles.min.js
-  https://cdn.jsdelivr.net/gh/ws-rice/drupal@latest/assets/css/app.min.css
+  https://cdn.jsdelivr.net/gh/ws-rice/drupal@latest/assets/css/app.css
   https://cdn.jsdelivr.net/gh/ws-rice/drupal@latest/assets/css/extra.min.css
   ```
 - #### Combined CDN single link:
